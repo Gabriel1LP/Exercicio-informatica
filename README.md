@@ -4,4 +4,4 @@
 
  <h3>Feito com objetivo de aprender.</h3>
 
- <a href="Exercicio-informatica"> Link página</a>
+ <a href="https://gabriel1lp.github.io/Exercicio-informatica/" target="_blank"> Link página</a>
