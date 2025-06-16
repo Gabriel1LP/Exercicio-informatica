@@ -3,3 +3,5 @@
  <H2>Redirecionamento de link</H2>
 
  <h3>Feito com objetivo de aprender.</h3>
+
+ <a href="Exercicio-informatica"></a>
